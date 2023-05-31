@@ -9,3 +9,6 @@ Author: Me
 
 - test dayo minaide...
 - the table above is metadata
+
+## テストだよ
+- 日本語だよ
