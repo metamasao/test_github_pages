@@ -12,3 +12,8 @@ Author: Me
 
 ## テストだよ
 - 日本語だよ
+
+```python
+import secrets
+print(secrets.token_hex())
+```
